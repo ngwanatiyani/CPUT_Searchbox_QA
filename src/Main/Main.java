@@ -48,7 +48,7 @@ public class Main {
         }
         WebElement resultsContainer = driver.findElement(By.cssSelector("dl.search-results"));
 
-        // Find all <dt> or <dd> elements inside the <dl> (assuming each result is in a <dt> or <dd>)
+        // Find all <dt> or <dd> elements inside the <dl> 
         List<WebElement> searchResults = resultsContainer.findElements(By.cssSelector("dt, dd"));
         int numberOfResults = searchResults.size();
 
@@ -61,7 +61,7 @@ public class Main {
 
         System.out.println("Browser closed.");
 
-
+      //End of program
 
     }
 }
