@@ -5,6 +5,7 @@ This repository contain files that has a QA test script for testing Cape Peninsu
 ## Resources used:
 
 IDE: Intellji
+
 API: Selenium webdriver
 
  
