@@ -9,4 +9,4 @@ This repository contain files that has QA test script for testing Cape Peninsula
 - Maven (optional, for dependencies management)
 - ChromeDriver for Selenium 🚀
 - JUnit 5 for testing 🧪
-- Internet Connection 🌐
+- Internet Connection🌐
